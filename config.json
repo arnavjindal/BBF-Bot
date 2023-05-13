@@ -1,0 +1,20 @@
+{
+    "clientId": "Confidential",
+    "guildId": "Confidential",
+    "token": "Confidential",
+    "globalPrefix": ".",
+    "bbu_role_id": "",
+    "bbu_manager_role_id": "",
+    "bba_role_id": "",
+    "bba_manger_role_id": "",
+    "rr_role_id": "",
+    "rr_manager_role_id": "",
+    "bb_role_id": "",
+    "bb_manager_role_id": "",
+    "lc_role_id": "",
+    "lc_manager_role_id": "",
+    "bbf_family_role_id" : "",
+    "server_dev_role" : "",
+    "owner_ids": [293762661311709186,911655366213918750]
+}
+
